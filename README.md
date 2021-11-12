@@ -1,7 +1,7 @@
 # Projeto-Lista-Ordenada
 ### Colaboradores
 
-Vinicius Rodrigues @ViniRodrig (https://github.com/ViniRodrig)
+Vinicius Rodrigues @ViniRodrig (https://github.com/ViniRodrig) /n
 Thiago Santos      @ttw4cy (https://github.com/ttw4cy)
 
 ### Como executar o programa
